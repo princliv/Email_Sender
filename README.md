@@ -14,4 +14,7 @@ EmailSenderApp is a Python GUI application developed using the Tkinter library. 
 ## Installation
 1. Clone the repository:
    ```git clone https://github.com/yourusername/EmailSenderApp.git```
-3. Install the required dependencies:
+2. Install the required dependencies:
+   `pip install Pillow` (This library is used to handle images, including loading and displaying them in the Tkinter GUI application.)
+   `pip install tkinter` (This library provides a standard Python interface to the Tk GUI toolkit.)
+   
