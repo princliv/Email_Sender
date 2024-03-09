@@ -44,7 +44,11 @@ EmailSenderApp is a Python GUI application developed using the Tkinter library. 
 Contributions are welcome! Please feel free to submit issues or pull requests.
 
 ## License
-[MIT License](LICENSE)
+This project is licensed under the MIT License. Feel free to use and modify the code as needed.
+
+---
+
+Feel free to fork this repository, customize it according to your preferences, and use it to create your own Weather App. If you encounter any issues or have suggestions for improvement, please feel free to open an issue or pull request. Enjoy coding! 🌦️🌤️🌞
 
 
    
