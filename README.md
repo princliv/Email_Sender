@@ -19,6 +19,7 @@ EmailSenderApp is a Python GUI application developed using the Tkinter library. 
    `pip install tkinter` (This library provides a standard Python interface to the Tk GUI toolkit.)<br>
    `pip install smtplib` (This library provides an SMTP client session object that can be used to send mail to any internet machine with an SMTP or ESMTP listener daemon.)<br>
 3. Make some changes in the `Email_Sender.py` file: Add Sender's Email ID and App password
+![Screenshot 2](screenshots/screenshot4.png)
 4. Run the application:``Email_Sender.py``
 
 ## Usage
@@ -39,6 +40,7 @@ EmailSenderApp is a Python GUI application developed using the Tkinter library. 
 ## Screenshots
 ![Screenshot 1](screenshots/screenshot1.png)
 ![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](screenshots/screenshot3.png)
 
 ## Contributing
 Contributions are welcome! Please feel free to submit issues or pull requests.
